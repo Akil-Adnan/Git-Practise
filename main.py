@@ -3,3 +3,6 @@ print("Hello world")
 # Nooooo
 
 # Hellll
+print("Hello world")
+# Nooooo
+# Nooooo
