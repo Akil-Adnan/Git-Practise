@@ -1,8 +1,1 @@
-print("Hello world")
-# Nooooo
-# Nooooo
-
-# Hellll
-print("Hello world")
-# Nooooo
-# Nooooo
+# Removing all the unnecessary codes
